@@ -1,0 +1,31 @@
+article {
+	background: #561643;
+	margin: 20px; 
+	padding: 10px 20px; 
+	border: 5px solid #6C0E23;  
+}
+
+article a {
+	color: white;
+	text-decoration: none;
+}
+
+article img {
+	float: right;
+	height: 100px;
+	padding: 20px 20px 0 0;
+}
+
+.container {
+	text-align: justify;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.container h2 {
+	text-align: center;
+}
+
+.container p {
+	text-indent: 20px;
+}
